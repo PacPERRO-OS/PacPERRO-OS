@@ -12,7 +12,7 @@ PacPERRO, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distrosudur
 # 💻 İstifadə olunan texnologiyalar:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 # 🧩 Komandamız:
-##### [Heydər İsmayıllı](https://github.com/PacPERRO-OS)  - Qurucu və Əsəs Developer
+##### [Heydər İsmayıllı](https://github.com/PacPERRO-OS)  - Qurucu və Əsas Developer
 ##### [Sübhan Qədirli](https://github.com/subhanqedirli)  - 2. Developer və İnterfeys Dizayneri
 ##### [Hasan Yıldız](https://github.com/hasan-pisi)       - Tester və Dizayner
 ##### [Ali Alpagu](https://github.com/aligaz)             - Tester və Vebsayt Dizayneri
