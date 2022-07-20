@@ -22,3 +22,5 @@ PacPERRO, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distrosudur
  ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com
  ##### Sübhan Qədirli   - subhanqedirli@protonmail.com
  ##### Hasan Yıldız     - hasanyildiz0@protonmail.com 
+ 
+ ##### © 2019-2022 PacPERRO. Bütün hüquqları qorunur
