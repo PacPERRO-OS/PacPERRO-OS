@@ -17,7 +17,7 @@ PacPERRO, Debian bazalı Azərbaycanda inkişaf etdirilən bir Linux distrosudur
 ##### [Hasan Yıldız](https://github.com/hasan-pisi)       - Tester və Dizayner
 ##### [Ali Alpagu](https://github.com/aligaz)             - Tester və Vebsayt Dizayneri
 # ⬇️ Yükləmə
- #### 💿 [L4-1 versiyasını yüklə](https://github.com/PacPERRO-OS/pacperro-releases/releases/download/pacperro-l4/PacPERRO-L4-1-Offical.iso)
+ #### 💿 [L4 Abşeron versiyasını yüklə](https://github.com/PacPERRO-OS/pacperro-releases/releases/download/pacperro-l4-abseron/PacPERRO-L4-Abseron.iso)
  # ✉️ Bizimlə Əlaqə
  ##### Heydər İsmayıllı - heyderismayilli092@protonmail.com
  ##### Sübhan Qədirli   - subhanqedirli@protonmail.com
